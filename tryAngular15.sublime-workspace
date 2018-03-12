@@ -1,0 +1,1426 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"conf"
+			],
+			[
+				"te",
+				"template"
+			],
+			[
+				"blog",
+				"blog-list"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"EMAIL",
+				"EMAIL_HOST_USER"
+			],
+			[
+				"cl",
+				"class_green"
+			],
+			[
+				"start",
+				"startDelay"
+			],
+			[
+				"scr",
+				"script"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"loop",
+				"loop:true"
+			],
+			[
+				"type_",
+				"type_why_woc"
+			],
+			[
+				"ha",
+				"hackathon"
+			],
+			[
+				"contact",
+				"contactForm"
+			],
+			[
+				"conta",
+				"contactForm"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"con",
+				"contact"
+			],
+			[
+				"fon",
+				"font-size: 〔property〕"
+			],
+			[
+				"htt",
+				"https"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"hack",
+				"hack36mnnit"
+			],
+			[
+				"slid",
+				"slider"
+			],
+			[
+				"fro",
+				"from_user〔variable〕"
+			],
+			[
+				"EMA",
+				"EMAIL_HOST_USER"
+			],
+			[
+				"dja",
+				"django_settings〔module〕"
+			],
+			[
+				"do",
+				"document\t: Document Window"
+			],
+			[
+				"form",
+				"form-submit"
+			],
+			[
+				"min",
+				"min-height: 〔property〕"
+			],
+			[
+				"marg",
+				"margin-top: 〔property〕"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"max-",
+				"max-height: 〔property〕"
+			],
+			[
+				"devel",
+				"development"
+			],
+			[
+				"fo",
+				"font-size: 〔property〕"
+			],
+			[
+				"spa",
+				"span\tTag"
+			],
+			[
+				"lis",
+				"list-style: 〔property〕"
+			],
+			[
+				"Regist",
+				"Registration"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"Eva",
+				"Evaluation"
+			],
+			[
+				"re",
+				"render〔module〕"
+			],
+			[
+				"wee",
+				"weekend_codes"
+			],
+			[
+				"vali",
+				"validator"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"width",
+				"width: 〔property〕"
+			],
+			[
+				"bord",
+				"border-radius: 〔property〕"
+			],
+			[
+				"bacl",
+				"background-color: 〔property〕"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"pr",
+				"prev_position"
+			],
+			[
+				"ch",
+				"check_this_subarray"
+			],
+			[
+				"b",
+				"bool"
+			],
+			[
+				"retur",
+				"returning"
+			],
+			[
+				"ind_",
+				"ind_sorted_arr"
+			],
+			[
+				"in",
+				"ind_sorted_arr"
+			],
+			[
+				"fl",
+				"flag2"
+			],
+			[
+				"ind",
+				"ind_arr"
+			],
+			[
+				"ar",
+				"arr"
+			],
+			[
+				"mi",
+				"MAX_INT"
+			],
+			[
+				"pow",
+				"my_pow"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"pri",
+				"printf\tprintf …"
+			],
+			[
+				"is",
+				"is_poisioned"
+			],
+			[
+				"pla",
+				"place_queens_after"
+			],
+			[
+				"s",
+				"successfully"
+			],
+			[
+				"mov",
+				"move_right"
+			],
+			[
+				"ven",
+				"venvs_dir"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"arr",
+				"arr_l"
+			],
+			[
+				"siz",
+				"size_l"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"str",
+				"strlen"
+			],
+			[
+				"tem",
+				"temp_no"
+			],
+			[
+				"stru",
+				"structure_sort"
+			],
+			[
+				"stu",
+				"students"
+			],
+			[
+				"st",
+				"students"
+			],
+			[
+				"prin",
+				"print_stars"
+			],
+			[
+				"mer",
+				"merge_sort"
+			],
+			[
+				"freq",
+				"freqs"
+			],
+			[
+				"fre",
+				"freqt"
+			],
+			[
+				"ng",
+				"ng-controller"
+			],
+			[
+				"coll",
+				"collectMoney"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"col-",
+				"col-md-offset-1"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"post",
+				"post_pic"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"get",
+				"get_object_or_404〔module〕"
+			],
+			[
+				"lo",
+				"login〔module〕"
+			],
+			[
+				"auth",
+				"auth_views"
+			],
+			[
+				"cont",
+				"contrib"
+			],
+			[
+				"adm",
+				"admin〔module〕"
+			],
+			[
+				"exi",
+				"exist_user〔variable〕"
+			],
+			[
+				"o",
+				"objects"
+			],
+			[
+				"pro",
+				"profito"
+			],
+			[
+				"pass",
+				"password〔variable〕"
+			],
+			[
+				"sub",
+				"submit_btn"
+			],
+			[
+				"ma",
+				"max_length"
+			],
+			[
+				"se",
+				"setTimeout〔function〕"
+			],
+			[
+				"image",
+				"image_list"
+			],
+			[
+				"rand",
+				"rand_order"
+			],
+			[
+				"inpu",
+				"input3"
+			],
+			[
+				"csrf",
+				"csrf_token"
+			],
+			[
+				"getEle",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"max_",
+				"max_final"
+			],
+			[
+				"flag",
+				"flag2〔variable〕"
+			],
+			[
+				"ele",
+				"element〔variable〕"
+			],
+			[
+				"prev",
+				"prev_element〔variable〕"
+			],
+			[
+				"pre",
+				"prev_element〔variable〕"
+			],
+			[
+				"le",
+				"length〔variable〕"
+			],
+			[
+				"side",
+				"side"
+			],
+			[
+				"sid",
+				"side"
+			],
+			[
+				"loca",
+				"location\t: Location Window"
+			],
+			[
+				"consol",
+				"console_log"
+			],
+			[
+				"abou",
+				"about_applicant"
+			],
+			[
+				"abo",
+				"about_applicant"
+			],
+			[
+				"apl",
+				"applicant_email〔variable〕"
+			],
+			[
+				"apll",
+				"applicant_name〔variable〕"
+			],
+			[
+				"btn",
+				"btnSaveIt"
+			],
+			[
+				"typ",
+				"type\t: DOMString Blob"
+			],
+			[
+				"new",
+				"new_resume〔variable〕"
+			],
+			[
+				"app",
+				"applicant_name〔variable〕"
+			],
+			[
+				"req",
+				"request.POST"
+			],
+			[
+				"uplo",
+				"upload_to"
+			],
+			[
+				"mode",
+				"models"
+			],
+			[
+				"Name",
+				"name\t: string Error"
+			],
+			[
+				"hei",
+				"max-height"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"mag",
+				"margin-left"
+			],
+			[
+				"col",
+				"color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/js/app/blog-list/blog-list.component.js",
+			"settings":
+			{
+				"buffer_size": 904,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<div class='' ng-controller=''>\n\t<p>Its {{var}}</p>\n\t<button ng-click='someClickTest()'>Click me if you can!!\n\t</button>\n</div>\n\n\n\n\n\n\n\n\n",
+			"file": "src/js/app/blog-list/blog-list.html",
+			"file_size": 127,
+			"file_write_time": 131644692909898585,
+			"settings":
+			{
+				"buffer_size": 136,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"r",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"package control",
+				"Package Control: Disable Package"
+			],
+			[
+				"edit",
+				"Set Syntax: EditorConfig"
+			],
+			[
+				"Anaconda di",
+				"Anaconda: Disable linting on this file"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"python3 test.py"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/media/deepak/Entreprise/projects/angularJsProjects/tryangular/djangular/Fluid/static/Fluid/modules/blog-list.component.js",
+		"/etc/apache2/sites-available/000-default.conf",
+		"/media/deepak/Entreprise/projects/angularJsProjects/tryangular/djangular/Fluid/templates/Fluid/home.html",
+		"/media/deepak/Entreprise/projects/angularJsProjects/tryangular/djangular/Fluid/static/Fluid/angular.min.js",
+		"/media/deepak/Entreprise/projects/angularJsProjects/tryangular/djangular/fluid/static/modules/app.config.js",
+		"/media/deepak/Entreprise/projects/angularJsProjects/tryangular/djangular/Fluid/views.py",
+		"/media/deepak/Entreprise/projects/mnnit/weekend_codes/WocLanding/static/WocLanding/js/contact-form-script.js",
+		"/media/deepak/Entreprise/projects/virtualenvs/weekend-codes/lib/python3.5/site-packages/dj_database_url.py",
+		"/media/deepak/Entreprise/projects/angularJsProjects/tryangular/src/js/app/blog-list/blog-list.component.js",
+		"/media/deepak/Entreprise/projects/angularJsProjects/tryangular/src/js/app/app.config.js",
+		"/media/deepak/Entreprise/projects/angularJsProjects/tryangular/src/js/app/app.module.js",
+		"/media/deepak/Entreprise/projects/angularJsProjects/tryangular/src/js/app/blog-list/blog-list.module.js",
+		"/media/deepak/Entreprise/projects/angularJsProjects/tryangular/src/js/app/blog-list/blog-list.html",
+		"/media/deepak/Entreprise/projects/angularJsProjects/tryangular/src/home.html",
+		"/media/deepak/Entreprise/projects/angularJsProjects/tryangular/djangular/djangular/settings.py",
+		"/media/deepak/Entreprise/projects/angularJsProjects/tryangular/djangular/djangular/urls.py",
+		"/home/deepak/test/square.cpp",
+		"/home/deepak/test/squar.py",
+		"/home/deepak/test/square.c",
+		"/media/deepak/Entreprise/projects/angularJsProjects/tryangular/djangular/fluid/views.py",
+		"/media/deepak/Entreprise/projects/angularJsProjects/tryangular/djangular/fluid/templates/home.html",
+		"/media/deepak/Entreprise/projects/mnnit/weekend_codes/weekend_codes/urls.py",
+		"/home/deepak/.bashrc",
+		"/media/deepak/Entreprise/projects/mnnit/weekend_codes/weekend_codes/settings.py",
+		"/media/deepak/Entreprise/projects/angularJsProjects/tryangular/src/templates/blog-list.html",
+		"/media/deepak/Entreprise/projects/angularJsProjects/tryangular/src/blog-list.html",
+		"/media/deepak/Entreprise/projects/mnnit/weekend_codes/WocLanding/templates/WocLanding/home.html",
+		"/media/deepak/Entreprise/projects/liveoninternet/snippets__/local_settings.py",
+		"/media/deepak/Entreprise/projects/mnnit/weekend_codes/weekend_codes/settings_old.py",
+		"/media/deepak/Entreprise/projects/angularJsProjects/tryangular/djangular/.bashrc",
+		"/media/deepak/Entreprise/projects/djangoProjects/gitpulled/bootcamp-master/bootcamp/settings.py",
+		"/media/deepak/Entreprise/projects/liveoninternet/snippets__/do_settings.py",
+		"/media/deepak/Entreprise/projects/liveoninternet/snippets__/heroku_settings.py",
+		"/media/deepak/Entreprise/projects/mnnit/weekend_codes/WocLanding/static/WocLanding/css/main.css",
+		"/media/deepak/Entreprise/projects/mnnit/weekend_codes/WocLanding/static/WocLanding/js/typing_animation.js",
+		"/media/deepak/Entreprise/projects/mnnit/weekend_codes/WocLanding/static/WocLanding/js/color-switcher.js",
+		"/media/deepak/Entreprise/projects/mnnit/weekend_codes/WocLanding/views.py",
+		"/media/deepak/Entreprise/projects/liveoninternet/snippets__/typeit_thing.html",
+		"/media/deepak/Entreprise/projects/mnnit/weekend_codes/requirements.txt",
+		"/media/deepak/Entreprise/projects/mnnit/weekend_codes/weekend_codes/wsgi.py",
+		"/media/deepak/Entreprise/projects/mnnit/weekend_codes/Procfile",
+		"/media/deepak/Entreprise/projects/mnnit/weekend_codes/README.md",
+		"/media/deepak/Entreprise/projects/mnnit/weekend_codes/runtime.txt",
+		"/media/deepak/Entreprise/projects/mnnit/weekend_codes/WocLanding/templates/WocLanding/index.html",
+		"/media/deepak/Entreprise/projects/mnnit/weekend_codes/WocLanding/static/WocLanding/img/sponsors/logo-02.png",
+		"/media/deepak/Entreprise/projects/mnnit/woc_registration/app/client/views/application/application.html",
+		"/media/deepak/Entreprise/projects/mnnit/weekend_codes/app.json",
+		"/media/deepak/Entreprise/projects/mnnit/weekend_codes/postdeploy.sh",
+		"/media/deepak/Entreprise/projects/liveoninternet/original/hohos_complete_17_12_17/django_project/feeds/static/js/feeds.js",
+		"/media/deepak/Entreprise/projects/mnnit/weekend_codes/WocLanding/static/WocLanding/js/main.js",
+		"/media/deepak/Entreprise/projects/mnnit/weekend_codes/WocLanding/static/WocLanding/js/initializers.js",
+		"/media/deepak/Entreprise/projects/mnnit/woc_registration/app/client/views/confirmation/confirmation.html",
+		"/media/deepak/Entreprise/projects/mnnit/woc_registration/app/server/models/User.js",
+		"/media/deepak/Entreprise/projects/mnnit/woc_registration/app/client/stylesheets/_login.scss",
+		"/home/deepak/Documents/sachin_brw_iitk/img_process.py",
+		"/home/deepak/Documents/sachin_brw_iitk/img_survey.html",
+		"/media/deepak/Entreprise/projects/djangoProjects/current/original_prayag_mob_friendly/prayag/prayag/templates/prayag/home.html",
+		"/media/deepak/Entreprise/projects/djangoProjects/current/original_prayag_mob_friendly/prayag/prayag/settings.py",
+		"/media/deepak/Entreprise/projects/mnnit/weekend_codes/weekend_codes/templates/test/test.html",
+		"/media/deepak/Entreprise/projects/mnnit/weekend_codes/WocLanding/templates/WocLanding/about.html",
+		"/media/deepak/Entreprise/projects/mnnit/weekend_codes/WocLanding/templates/WocLanding/schedule.html",
+		"/media/deepak/Entreprise/projects/mnnit/woc_registration/app/client/index.html",
+		"/media/deepak/Entreprise/projects/mnnit/woc_registration/app/client/views/application/applicationCtrl.js",
+		"/media/deepak/Entreprise/projects/mnnit/woc_registration/app/client/views/login/login.html",
+		"/media/deepak/Entreprise/projects/mnnit/woc_registration/app/server/controllers/UserController.js",
+		"/media/deepak/Entreprise/projects/mnnit/woc_registration/app/client/views/sidebar/sidebar.html",
+		"/media/deepak/Entreprise/projects/mnnit/woc_registration/app/client/stylesheets/_sidebar.scss",
+		"/media/deepak/Entreprise/projects/mnnit/woc_registration/app/client/stylesheets/_branding.scss",
+		"/media/deepak/Entreprise/projects/mnnit/woc_registration/app/client/stylesheets/site.scss",
+		"/media/deepak/Entreprise/projects/mnnit/registration/app/server/controllers/UserController.js",
+		"/media/deepak/Entreprise/projects/mnnit/woc_registration/.env",
+		"/media/deepak/Entreprise/projects/mnnit/woc_registration/app/client/assets/schools.csv",
+		"/media/deepak/Entreprise/projects/mnnit/woc_registration/app/server/models/Settings.js",
+		"/media/deepak/Entreprise/projects/mnnit/woc_registration/app/client/views/login/loginCtrl.js",
+		"/media/deepak/Entreprise/projects/mnnit/registration/app/client/views/login/login.html",
+		"/media/deepak/Entreprise/projects/mnnit/registration/app/server/models/Settings.js",
+		"/media/deepak/Entreprise/projects/mnnit/woc_registration/app/client/views/admin/user/user.html",
+		"/media/deepak/Entreprise/projects/mnnit/woc_registration/app/client/views/admin/stats/stats.html",
+		"/media/deepak/Entreprise/projects/mnnit/woc_registration/app/client/views/admin/settings/settings.html",
+		"/media/deepak/Entreprise/projects/mnnit/woc_registration/app/client/assets/schools.json",
+		"/media/deepak/Entreprise/projects/mnnit/woc_registration/app/client/assets/schools_old.json",
+		"/media/deepak/Entreprise/programs/questionSolved/spoj/aggrCows.py",
+		"/home/deepak/psiphon/README.md",
+		"/home/deepak/.config/sublime-text-3/Packages/GitStatusBar/GitStatusBar.sublime-settings",
+		"/media/deepak/Entreprise/programs/computerClub/tips_&_tricks/common_scripts/a_pow_b.cpp",
+		"/media/deepak/Entreprise/programs/computerClub/2__recursion_structure_mergeSort_on_30-7-17/backtracks/f_back-track.cpp",
+		"/media/deepak/Entreprise/programs/computerClub/recursion_structure_mergeSort/pair_count.cpp",
+		"/media/deepak/Entreprise/movies_tv_series/TV Series/S01/subs/Suits - season 1.en/Suits - 1x06 - Tricks of the Trade.HDTV.en.srt",
+		"/media/deepak/Entreprise/programs/guidlines/c_c++_tips_tricks/dataTypesInC",
+		"/media/deepak/Entreprise/programs/questionSolved/codeforces/div2_464_17th_feb_2018/plane_triangles.cpp",
+		"/media/deepak/Entreprise/programs/questionSolved/codeforces/div2_464_17th_feb_2018/hamster_farm.cpp",
+		"/media/deepak/Entreprise/programs/questionSolved/codechef/long_1_1_2018/q3.py",
+		"/media/deepak/Entreprise/programs/questionSolved/codechef/codered/smaller.cpp",
+		"/media/deepak/Entreprise/home/3.The Mnnit/resumes/for_Companies/whatsApp/latex.txt",
+		"/media/deepak/Entreprise/home/3.The Mnnit/resumes/for_Hackathons/for HINT18/latex_code_for_hint18.txt",
+		"/media/deepak/Entreprise/programs/computerClub/recursion_structure_mergeSort/exponent_recursion.cpp",
+		"/media/deepak/Entreprise/programs/computerClub/recursion_structure_mergeSort/backtracks/nqueens.cpp",
+		"/media/deepak/Entreprise/programs/computerClub/recursion_structure_mergeSort/f_back-track.cpp",
+		"/media/deepak/Entreprise/programs/computerClub/tips_&_tricks/tricks.cpp",
+		"/media/deepak/Entreprise/academics/6thsem/Embedded/tuts/embedded_tuts_ans",
+		"/home/deepak/psiphon/psi_client.py",
+		"/media/deepak/Entreprise/programs/computerClub/recursion_structure_mergeSort/merge_spoj.cpp",
+		"/media/deepak/Entreprise/programs/computerClub/recursion_structure_mergeSort/mrgsrt_codechef.cpp",
+		"/media/deepak/Entreprise/programs/computerClub/recursion_structure_mergeSort/inversion_count.cpp",
+		"/home/deepak/sys_scripts/usefull_aliases.sh",
+		"/home/deepak/sys_scripts/digital_ocean_scripts/server_setup",
+		"/home/deepak/sys_scripts/useful_alias",
+		"/home/deepak/custom_sy_scripts/prox_dir.sh",
+		"/media/deepak/Entreprise/programs/computerClub/recursion_structure_mergeSort/merge_sort.cpp",
+		"/media/deepak/Entreprise/programs/computerClub/searching/problems_given/test.cpp",
+		"/media/deepak/Entreprise/programs/computerClub/searching/problems_given/bob_&_string_hackerearth.cpp",
+		"/media/deepak/Entreprise/programs/computerClub/searching/problems_given/drs_codechef.cpp",
+		"/media/deepak/Entreprise/programs/computerClub/searching/problems_given/fctrl2_spoj.py",
+		"/media/deepak/Entreprise/programs/guidlines/oftenly_used_concepts.cpp",
+		"/media/deepak/Entreprise/programs/computerClub/searching/problems_given/counting_sort_hackerearth.cpp",
+		"/media/deepak/Entreprise/programs/guidlines/stl.cpp",
+		"/media/deepak/Entreprise/programs/guidlines/codingTip__effective**",
+		"/media/deepak/Entreprise/programs/guidlines/placement_guide",
+		"/media/deepak/Entreprise/programs/guidlines/c_c++_tips_tricks/carefull",
+		"/media/deepak/Entreprise/programs/computerClub/recursion_structure_mergeSort/hash_negative_no.cpp",
+		"/media/deepak/Entreprise/programs/computerClub/recursion_structure_mergeSort/structure_sort.cpp",
+		"/media/deepak/Entreprise/programs/computerClub/recursion_structure_mergeSort/rec.cpp",
+		"/media/deepak/Entreprise/programs/computerClub/recursion_structure_mergeSort/palindrome_check_recursion.cpp",
+		"/home/deepak/.local/share/applications/google-chrome.desktop",
+		"/media/deepak/Entreprise/academics/6thsem/dbms/lab/20154069/query1.txt",
+		"/media/deepak/Entreprise/academics/6thsem/dbms/lab/20154069/query2.txt",
+		"/media/deepak/Entreprise/programs/computerClub/searching/problems_given/nsteps_spoj.cpp",
+		"/media/deepak/Entreprise/programs/computerClub/searching/problems_given/fctrl2_spoj.cpp"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 110.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"weekend_codes",
+			"list",
+			"export",
+			"teliyarganj",
+			"teliarganj",
+			"codestart",
+			"favicon.png",
+			"wow",
+			"false",
+			"speed",
+			"TypeIt",
+			"typit",
+			"<<<<<<",
+			"static",
+			"background",
+			"background ",
+			"background/",
+			"background/bg-1.jpg",
+			"background/img-1",
+			"static",
+			"assets",
+			"Name",
+			"img",
+			"contact-bg.jpg",
+			"HEAD",
+			"contact",
+			"Email",
+			"opaci",
+			"about",
+			"GALLER",
+			"why woc",
+			"blog",
+			"about",
+			"sponsor",
+			"gallery",
+			"galley",
+			"sponso",
+			"why woc",
+			"why WOC ",
+			"MIT",
+			"gallery",
+			"weekend_codes",
+			"bootcamp",
+			"Csv",
+			"submitM",
+			"seria",
+			"form-process.php",
+			"form-submit",
+			"map ",
+			"about",
+			"MNNIT",
+			"favicon",
+			"Regist",
+			"img",
+			"color-1",
+			"color",
+			"bottom",
+			"fa fa",
+			"fa",
+			"fa-gear",
+			"clock",
+			"img",
+			".jpeg",
+			".jpg",
+			".png",
+			".js",
+			".css",
+			"WocLanding",
+			"assets",
+			"SanFansisco",
+			"weekend-codes",
+			"django_project",
+			"submitForm() ",
+			"adult",
+			"assets",
+			"$login-bg",
+			"login-bg",
+			"sidebar",
+			"Hack",
+			"MIT",
+			"Hack",
+			"MIT",
+			"Hack",
+			"MIT",
+			"hack",
+			"MIT",
+			"Hack",
+			"MIT",
+			"hack",
+			"Mit",
+			"Hack",
+			"MIT",
+			"Hack",
+			"MIT",
+			"HackMIT 2015",
+			"hackM",
+			"Hack",
+			"hackMit",
+			"edu",
+			"register",
+			"foo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"djangular",
+			".jpg' %}",
+			".png' %}",
+			".js' %}",
+			".css' %}",
+			"{% static 'WocLanding",
+			"WocLanding",
+			"weekend_codes",
+			"weekend-codes",
+			"MNNIT"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/js/app/blog-list/blog-list.component.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 904,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								247,
+								247
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										11,
+										12
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										0,
+										1
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										262,
+										263
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										237,
+										238
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/js/app/blog-list/blog-list.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 136,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								133,
+								133
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										123,
+										126
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1,
+										4
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 201.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 156.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 102.0
+	},
+	"pinned_build_system": "Packages/User/JavaScript.sublime-build",
+	"project": "tryAngular15.sublime-project",
+	"replace":
+	{
+		"height": 79.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 241.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
