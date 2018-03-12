@@ -1,0 +1,21 @@
+<!-- <div class=''>
+	<p>Its {{var}}</p>
+	<button ng-click='someClickTest()'>Click me if you can!!
+	</button>
+</div> -->
+
+<style type="text/css">
+	li {
+		list-style: none;
+	}
+</style>
+
+<h1 class="text-center">Blogs</h1>
+
+<ul ng-if='items.length>0'>
+	<li ng-repeat='item in items'>
+		<a ng-href="/blog/{{item.id}}/">{{item.title}} was published at {{item.publishDate}}</a>
+	</li>
+</ul>
+
+<span ng-if="items.length>3">There are more than 3 blogs so far..</span>
